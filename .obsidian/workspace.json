@@ -20,22 +20,8 @@
               "icon": "lucide-file",
               "title": "Срезы"
             }
-          },
-          {
-            "id": "63a1a62f23a60314",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Pictures/Pasted image 20241201021042.png",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (Pasted image 20241201021042.png)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
